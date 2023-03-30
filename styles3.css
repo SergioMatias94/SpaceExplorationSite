@@ -1,0 +1,15 @@
+body{
+    background: red;
+    text-align: center;
+    font-family: BebasNeue;
+}
+
+h1{
+    color: #fafbf4;
+    font-size: 80px;
+    text-shadow: 5px -5px 5px black;
+}
+@font-face {
+    font-family: BebasNeue;
+    src: url("bebas_neue/BebasNeue-Regular.ttf");
+}
